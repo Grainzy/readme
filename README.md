@@ -90,21 +90,8 @@ Enterprise-grade portfolio management system for institutional clients.
 ## 🎓 Certifications & Education
 
 - Certified Public Accountant (CPA)
-- Certified Blockchain Expert
-- Advanced Smart Contract Security
-- Masters in Information Systems
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects at the intersection of DeFi, accounting, and technology. Feel free to reach out!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grainzy@example.com)
-[![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/grainzy)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grainzy)
-
-</div>
+- Advanced Smart Contract Security Auditor
+- Masters in Data Analytics
 
 ---
 
