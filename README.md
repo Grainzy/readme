@@ -4,21 +4,13 @@
 
 # GRAINZY
 
-<a href="https://twitter.com/Grainzy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://github.com/Grainzy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/Grainzy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://i.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 *Web3 Native • CPA • Software Developer • GP @ [NCG Ventures](https://ncgventures.xyz)*
 
 </div>
 
 ---
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grainzy&show_icons=true&theme=radical)](https://github.com/Grainzy)
-
-</div>
 
 ## 🚀 About Me
 
@@ -36,37 +28,64 @@ I bridge the gap between traditional finance and the frontier of Web3 technology
 - Developed proprietary digital asset tracking solutions
 
 ## 💻 Tech Stack
-javascript
-const techStack = {
-blockchain: ['Ethereum', 'Solidity', 'Web3.js', 'Hardhat'],
-languages: ['Python', 'JavaScript', 'TypeScript', 'Rust'],
-frontend: ['React', 'Next.js', 'TailwindCSS'],
-backend: ['Node.js', 'Express', 'PostgreSQL'],
-tools: ['Docker', 'AWS', 'Git', 'Linux'],
-defi: ['UniswapV3', 'Aave', 'Compound', 'MakerDAO']
-}
+
+### Blockchain
+- **Networks**: Ethereum, Polygon, Arbitrum, Optimism
+- **Tools**: Web3.js, Ethers.js, Hardhat, Foundry
+- **Languages**: Solidity ^0.8.0, Vyper
+- **Protocols**: ERC20, ERC721, ERC1155, EIP-2535
+
+### Development
+- **Frontend**: React, Next.js, TailwindCSS, TypeScript
+- **Backend**: Node.js, Express, FastAPI, PostgreSQL
+- **Cloud**: AWS Lambda, EC2, S3, CloudFront
+- **Tools**: Docker, Git, Linux, GitHub Actions
+
+### Finance
+- **Accounting**: GAAP, IFRS, Digital Asset Accounting
+- **Compliance**: SOX, SOC1, SOC2, COSO
+- **Tools**: Sage Intacct, NetSuite, Quickbooks
 
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### DeFi Tax Suite
+A comprehensive tax reporting solution for decentralized finance transactions.
+- **Tech Stack**: Python, FastAPI, PostgreSQL, Web3.py
+- **Key Features**:
+  - Real-time transaction monitoring across 15+ chains
+  - Custom price oracle integration with Chainlink
+  - Automated cost basis calculations (FIFO, LIFO, HIFO)
+  - PDF report generation with audit trails
+  - Integration with major tax software via API
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [DeFi Tax Suite](https://github.com/Grainzy/defi-tax) | Automated tax reporting for DeFi transactions | Python, Web3.py |
-| [Smart Contract Auditor](https://github.com/Grainzy/smart-audit) | AI-powered smart contract vulnerability scanner | Solidity, TypeScript |
-| [Blockchain Explorer](https://github.com/Grainzy/block-explorer) | Custom block explorer with advanced analytics | React, Node.js |
+### Smart Contract Auditor
+AI-powered vulnerability scanner for Ethereum smart contracts.
+- **Tech Stack**: TypeScript, Solidity, TensorFlow.js
+- **Key Features**:
+  - Pattern recognition for common vulnerabilities
+  - Gas optimization analysis
+  - Automated test generation
+  - Integration with Slither and Mythril
+  - Custom security rule engine
 
-</div>
+### Cross-Chain Portfolio Manager
+Enterprise-grade portfolio management system for institutional clients.
+- **Tech Stack**: React, Node.js, GraphQL, AWS
+- **Key Features**:
+  - Multi-signature wallet integration
+  - Real-time portfolio rebalancing
+  - Custom risk metrics dashboard
+  - Automated trade execution
+  - Institutional-grade security measures
 
-## 📈 DeFi Analytics
-mermaid
-graph LR
-A[DeFi Experience] --> B[Top 500 Score]
-B --> C[Protocol Mastery]
-C --> D[Risk Management]
-D --> E[Portfolio Optimization]
+## 📈 DeFi Experience
 
+- **Yield Farming**: Implemented sophisticated auto-compounding strategies across Curve, Convex, and Yearn
+- **AMM Liquidity**: Managed $10M+ in UniswapV3 positions with custom range optimization
+- **Lending Markets**: Deep experience with Aave, Compound, and MakerDAO governance
+- **MEV**: Developed flash loan arbitrage bots and sandwich trading strategies
+- **NFTs**: Built custom marketplace contracts and royalty distribution systems
 
 ## 🎓 Certifications & Education
 
@@ -74,14 +93,6 @@ D --> E[Portfolio Optimization]
 - Certified Blockchain Expert
 - Advanced Smart Contract Security
 - Masters in Information Systems
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Grainzy&theme=react-dark)
-
-</div>
 
 ## 🤝 Let's Connect
 
